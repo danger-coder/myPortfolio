@@ -27,7 +27,7 @@ function Hero({ }: Props) {
                     <Link href="#skills">
                         <button className='heroButton hover:border-[#F7ABBA] hover:rounded-3xl transition-all'>Skills </button></Link>
                     <Link href="#projects">
-                        <button className='heroButton hover:border-[#F7ABBA] hover:rounded-3xl transition-all'>Project </button>
+                        <button className='heroButton hover:border-[#F7ABBA] hover:rounded-3xl transition-all'>Projects </button>
                     </Link>
                 </div>
             </div>
